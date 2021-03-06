@@ -8,9 +8,9 @@ dotnet ef migrations add InitialMigration
 dotnet ef database update
 
 ## Nuget packages to install
-Install-Package Microsoft.EntityFrameworkCore
-Install-Package Microsoft.EntityFrameworkCore.Design
-Install-Package Microsoft.EntityFrameworkCore.SqlServer
-Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection
-Install-Package Microsoft.AspNetCore.JsonPatch
-Install-Package Microsoft.AspNetCore.Mvc.NewtonsoftJson
+- Install-Package Microsoft.EntityFrameworkCore
+- Install-Package Microsoft.EntityFrameworkCore.Design
+- Install-Package Microsoft.EntityFrameworkCore.SqlServer
+- Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection
+- Install-Package Microsoft.AspNetCore.JsonPatch
+- Install-Package Microsoft.AspNetCore.Mvc.NewtonsoftJson
